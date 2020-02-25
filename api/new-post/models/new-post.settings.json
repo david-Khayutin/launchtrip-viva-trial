@@ -1,4 +1,6 @@
 {
+  "connection": "default",
+  "collectionName": "new_posts",
   "info": {
     "name": "new post"
   },
@@ -20,8 +22,18 @@
       ],
       "default": "List",
       "required": true
+    },
+    "Title": {
+      "type": "string",
+      "required": true
+    },
+    "blurb": {
+      "type": "richtext",
+      "required": true
+    },
+    "body": {
+      "type": "richtext",
+      "required": true
     }
-  },
-  "connection": "default",
-  "collectionName": "new_posts"
+  }
 }
