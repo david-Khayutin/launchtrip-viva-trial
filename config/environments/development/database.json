@@ -1,0 +1,17 @@
+{
+  "defaultConnection": "default",
+  "connections": {
+    "default": {
+      "connector": "bookshelf",
+      "settings": {
+        "client": "mysql",
+        "database": "oruaut455gmurdgh",
+        "host": "h40lg7qyub2umdvb.cbetxkdyhwsb.us-east-1.rds.amazonaws.com",
+        "port": 3306,
+        "username": "l6t1dd447w6uziyq",
+        "password": "zlrs5sb1n8vgds7s"
+      },
+      "options": {}
+    }
+  }
+}
