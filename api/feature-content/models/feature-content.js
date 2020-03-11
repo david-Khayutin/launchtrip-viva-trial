@@ -1,7 +1,7 @@
 'use strict';
 
 /**
- * Lifecycle callbacks for the `new-post` model.
+ * Lifecycle callbacks for the `feature-content` model.
  */
 
 module.exports = {
