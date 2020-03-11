@@ -2,7 +2,7 @@
   "connection": "default",
   "collectionName": "components_posts_body_and_images",
   "info": {
-    "name": "body_and_image",
+    "name": "bodyWithImage",
     "icon": "address-card"
   },
   "options": {},

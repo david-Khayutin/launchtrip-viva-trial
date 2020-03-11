@@ -2,7 +2,7 @@
   "connection": "default",
   "collectionName": "components_posts_side_bars",
   "info": {
-    "name": "Side_bar",
+    "name": "SideBar",
     "icon": "barcode"
   },
   "options": {},

@@ -2,7 +2,7 @@
   "connection": "default",
   "collectionName": "components_posts_related_coverages",
   "info": {
-    "name": "related_coverage",
+    "name": "relatedCoverage",
     "icon": "arrow-circle-right"
   },
   "options": {},

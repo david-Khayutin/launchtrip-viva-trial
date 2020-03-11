@@ -2,7 +2,7 @@
   "connection": "default",
   "collectionName": "components_posts_map_infos",
   "info": {
-    "name": "map_info",
+    "name": "mapInfo",
     "icon": "map-marked"
   },
   "options": {},
