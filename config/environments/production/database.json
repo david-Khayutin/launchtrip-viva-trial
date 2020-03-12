@@ -5,11 +5,11 @@
       "connector": "bookshelf",
       "settings": {
         "client": "mysql",
-        "host": "${process.env.DATABASE_HOST || 'h40lg7qyub2umdvb.cbetxkdyhwsb.us-east-1.rds.amazonaws.com'}",
-        "port": "${process.env.DATABASE_PORT || 3306}",
-        "database": "${process.env.DATABASE_NAME || 'newmagazine2'}",
-        "username": "${process.env.DATABASE_USERNAME || 'rwef5z3pg7dndw4j'}",
-        "password": "${process.env.DATABASE_PASSWORD || 'wwh0v00lcpo8dhdo'}",
+        "host": "${process.env.DATABASE_HOST}",
+        "port": "${process.env.DATABASE_PORT}",
+        "database": "${process.env.DATABASE_NAME}",
+        "username": "${process.env.DATABASE_USERNAME}",
+        "password": "${process.env.DATABASE_PASSWORD}",
         "ssl": false
       },
       "options": {}
